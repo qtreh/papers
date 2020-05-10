@@ -1,5 +1,5 @@
 # papers
 
-A General and Adaptive Robust Loss Function
+[A General and Adaptive Robust Loss Function](arxiv.org/abs/1701.03077), Jonathan T. Barron
  
-(Summary)[#https://github.com/qtreh/papers/issues/1] (Link)[arxiv.org/abs/1701.03077]
+-> [My summary](https://github.com/qtreh/papers/issues/1)
